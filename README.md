@@ -1,34 +1,69 @@
 # CONCURSO PÚBLICO NACIONAL UNIFICADO DA JUSTIÇA ELEITORAL 2024
 CONCURSO PÚBLICO NACIONAL UNIFICADO DA JUSTIÇA ELEITORAL PARA O PROVIMENTO DE VAGAS E A FORMAÇÃO DE CADASTRO DE RESERVA EM CARGOS DE ANALISTA JUDICIÁRIO E DE TÉCNICO JUDICIÁRIO
 
+## 1 - PROGRAMAÇÃO DE SISTEMAS:
+* [ ] 1 Lógica de programação.
+* https://www.estrategiaconcursos.com.br/app/dashboard/cursos/302544/aulas/2853036/videos/202450
+* https://www.grancursosonline.com.br/aluno/espaco/curso/codigo/hPlTM0JlLAk%3D/v/Ka95NDrzuIY%3D/c/v8QgJ7DTBq4%3D
+* [ ] 1.1 Algoritmos, depuração.
+* [ ] 2 Estrutura de dados e organização de arquivos.
+* [ ] 3 Arquitetura cliente-servidor multicamadas.
+* [ ] 4 Noções sobre desenvolvimento e manutenção de sistemas e aplicações.
+* [ ] 5 Paradigma de orientação a objetos.
+  * [ ] 5.1 Conceitos e aplicações.
+* [ ] 6 Banco de dados.
+  * [ ] 6.1 Conceitos básicos, características dos bancos relacionais e linguagem SQL.
+* [ ] 7 Modelagem de dados.
+  * [ ] 7.1 Diagramas entidade-relacionamento e mapeamento para modelo relacional.
+* [ ] 8 Noções sobre metodologias de análise, projeto e desenvolvimento de sistemas.
+* [ ] 9 Tecnologias web.
+  * [ ] 9.1 Webservices, AJAX, XML, DHTML, CSS.
+* [ ] 10 Noções sobre linguagens e tecnologias de programação Java, Mobile nas plataformas Android, HTML, CSS, Javascript, DHTML, XML/XSD, JBossSeam, JPA, JSF, facelets, JNDI, JDBC, sites responsivos.
+* [ ] 11 Interface de interação com usuário.
+  * [ ] 11.1 Interface gráfica, ergonomia e usabilidade.
+* [ ] 12 Redes de computadores.
+  * [ ] 12.1 Fundamentos de comunicação de dados.
+  * [ ] 12.2 Estações e servidores.
+  * [ ] 12.3 Tecnologias de redes locais e de longa distância.
+  * [ ] 12.4 Arquitetura TCP/IP.
+  * [ ] 12.5 Arquitetura cliente-servidor.
+  * [ ] 12.6 Conceitos de Internet e intranet.
+
 ## 2 - DESENVOLVIMENTO DE SISTEMAS:
 * [ ] 1 Desenvolvimento de sistemas.
   * [ ] 1.1 Desenvolvimento web.
-  * [ ] 1.1.1 JavaScript, HTML5, CSS3, WebSocket, Single Page Application (SPA).
-  * [ ] 1.2 Framework JavaScript AngularJS, DHTML, AJAX, Vue JS.
+    * [ ] 1.1.1 JavaScript
+    * [ ] 1.1.2 HTML5  
+    * [ ] 1.1.3 CSS3
+    * [ ] 1.1.4 WebSocket
+    * [ ] 1.1.5 Single Page Application (SPA).
+  * [ ] 1.2 Framework JavaScript AngularJS  
+    * [ ] 1.2.1 DHTML
+    * [ ] 1.2.2 AJAX,
+    * [ ] 1.2.3 Vue JS.
   * [ ] 1.3 Noções e conceitos de desenvolvimento para dispositivos móveis.
-* [ ] 1.4 Framework Apache CXF.
-* [ ] 1.5 Usabilidade e acessibilidade na Internet, padrões W3C.
+  * [ ] 1.4 Framework Apache CXF.
+  * [ ] 1.5 Usabilidade e acessibilidade na Internet, padrões W3C.
 * [ ] 2 Arquitetura de software.
-* [ ] 2.1 Interoperabilidade de sistemas.
-* [ ] 2.2 Arquitetura orientada a serviços.
-* [ ] 2.2.1 Web services.
-* [ ] 2.3 Arquitetura orientada a objetos.
-* [ ] 2.4 Arquitetura de aplicações para ambiente web.
-* [ ] 2.4.1 Servidor de aplicações. Servidor web.
+  * [ ] 2.1 Interoperabilidade de sistemas.
+  * [ ] 2.2 Arquitetura orientada a serviços.
+    * [ ] 2.2.1 Web services.
+  * [ ] 2.3 Arquitetura orientada a objetos.
+  * [ ] 2.4 Arquitetura de aplicações para ambiente web.
+    * [ ] 2.4.1 Servidor de aplicações. Servidor web.
 * [ ] 3 Ambientes Internet, extranet, intranet e portal: finalidades, características físicas e lógicas, aplicações e serviços.
 * [ ] 4 Padrões XML, XSLT, UDDI, WSDL, SOAP, REST e JSON.
 * [ ] 5 Engenharia de software.
-* [ ] 5.1 Unified Modeling Language (UML).
-* [ ] 5.2 Metodologias ágeis para o desenvolvimento de software: Scrum, XP, Lean.
+  * [ ] 5.1 Unified Modeling Language (UML).
+  * [ ] 5.2 Metodologias ágeis para o desenvolvimento de software: Scrum, XP, Lean.
 * [ ] 6 Noções de Arquitetura SOA (Service Oriented Architecture).
 * [ ] 7 Noções de Arquitetura Cliente-Servidor.
 * [ ] 8 Desenvolvimento de sistemas web: conceitos básicos e aplicações; HTML5, CSS3, Single Page Applica AJAX.
 * [ ] 9 Microsoft Power Platform.
-* [ ] 9.1 Power Apps.
-* [ ] 9.2 Power BI.
-* [ ] 9.3 Power Automate.
-* [ ] 9.4 Power Virtual Agents.
+  * [ ] 9.1 Power Apps.
+  * [ ] 9.2 Power BI.
+  * [ ] 9.3 Power Automate.
+  * [ ] 9.4 Power Virtual Agents.
 
 ## 3 - INFRAESTRUTURA:
 * [ ] 1 Sistemas operacionais:fundamentos; gestão de processos; gestão de memória; gestão de entrada e saída; instalação, configuração e administração de sistemas operacionais Windows Server 2012 e 2016 e RedHat Entrerprise Linux versões 5, 6 e 7. 
@@ -132,31 +167,7 @@ CONCURSO PÚBLICO NACIONAL UNIFICADO DA JUSTIÇA ELEITORAL PARA O PROVIMENTO DE 
 * [ ] 9.1 Conceitos básicos, estrutura e objetivos. 
 * [ ] 10 Conceitos de gestão de processos e modelagem de processos de negócio usando BPMN.
 
-## 1 - PROGRAMAÇÃO DE SISTEMAS:
-* [ ] 1 Lógica de programação.
-* [ ] 1.1 Algoritmos, depuração.
-* [ ] 2 Estrutura de dados e organização de arquivos.
-* [ ] 3 Arquitetura cliente-servidor multicamadas.
-* [ ] 4 Noções sobre desenvolvimento e manutenção de sistemas e aplicações.
-* [ ] 5 Paradigma de orientação a objetos.
-* [ ] 5.1 Conceitos e aplicações.
-* [ ] 6 Banco de dados.
-* [ ] 6.1 Conceitos básicos, características dos bancos relacionais e linguagem SQL.
-* [ ] 7 Modelagem de dados.
-* [ ] 7.1 Diagramas entidade-relacionamento e mapeamento para modelo relacional.
-* [ ] 8 Noções sobre metodologias de análise, projeto e desenvolvimento de sistemas.
-* [ ] 9 Tecnologias web.
-* [ ] 9.1 Webservices, AJAX, XML, DHTML, CSS.
-* [ ] 10 Noções sobre linguagens e tecnologias de programação Java, Mobile nas plataformas Android, HTML, CSS, Javascript, DHTML, XML/XSD, JBossSeam, JPA, JSF, facelets, JNDI, JDBC, sites responsivos.
-* [ ] 11 Interface de interação com usuário.
-* [ ] 11.1 Interface gráfica, ergonomia e usabilidade.
-* [ ] 12 Redes de computadores.
-* [ ] 12.1 Fundamentos de comunicação de dados.
-* [ ] 12.2 Estações e servidores.
-* [ ] 12.3 Tecnologias de redes locais e de longa distância.
-* [ ] 12.4 Arquitetura TCP/IP.
-* [ ] 12.5 Arquitetura cliente-servidor.
-* [ ] 12.6 Conceitos de Internet e intranet.
+
 
 ## 5 - BANCOS DE DADOS:
 * [ ] 1 Banco de dados.

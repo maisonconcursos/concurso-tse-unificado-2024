@@ -2,7 +2,7 @@
 CONCURSO PÚBLICO NACIONAL UNIFICADO DA JUSTIÇA ELEITORAL PARA O PROVIMENTO DE VAGAS E A FORMAÇÃO DE CADASTRO DE RESERVA EM CARGOS DE ANALISTA JUDICIÁRIO E DE TÉCNICO JUDICIÁRIO
 
 ## 1 - PROGRAMAÇÃO DE SISTEMAS:
-* [ ] 1 Lógica de programação.
+* [✅] 1 Lógica de programação.
 * https://www.estrategiaconcursos.com.br/app/dashboard/cursos/302544/aulas/2853036/videos/202450
 * https://www.grancursosonline.com.br/aluno/espaco/curso/codigo/hPlTM0JlLAk%3D/v/Ka95NDrzuIY%3D/c/v8QgJ7DTBq4%3D
 * [ ] 1.1 Algoritmos, depuração.
@@ -29,10 +29,39 @@ CONCURSO PÚBLICO NACIONAL UNIFICADO DA JUSTIÇA ELEITORAL PARA O PROVIMENTO DE 
   * [ ] 12.5 Arquitetura cliente-servidor.
   * [ ] 12.6 Conceitos de Internet e intranet.
 
+## 2 - BANCOS DE DADOS:
+* [ ] 1 Banco de dados.
+* [ ] 1.1 Conceitos básicos.
+* [ ] 1.2 Arquitetura.
+* [ ] 1.3 Estrutura de dados.
+* [ ] .4 Modelagem e normalização de dados.
+* [ ] 1.5 Noções de administração de dados e de banco de dados.
+* [ ] 1.6 SQL (ANSI).
+* [ ] 1.7 Oracle 21C, MySql, ADABAS e MS-SQLSERVER 2019.
+* [ ] 1.8 Arquitetura e políticas de armazenamento de dados. Engenharia de dados – ingestão e armazenamento de grande quantidade de dados (Big Data), SQLite.
+* [ ] 2 Modelagem de dados (conceitual, lógica e física).
+* [ ] 3 Abordagem relacional.
+* [ ] 4 Normalização das estruturas de dados.
+* [ ] 5 Integridade referencial.
+* [ ] 6 Metadados.
+* [ ] 7 Modelagem dimensional.
+* [ ] 8 Linguagem de consulta estruturada (SQL).
+* [ ] 9 Linguagem de definição de dados (DDL).
+* [ ] 10 Linguagem de manipulação de dados (DML).
+* [ ] 11 SGBD.
+* [ ] 12 Propriedades de banco de dados.
+* [ ] 13 Banco de dados NoSQL.
+* [ ] 14 Banco de dados em memória.
+* [ ] 15 Data lakes e soluções para big data.
+* [ ] 16 Dados Estruturados e não Estruturados.
+* [ ] 17 Avaliação de modelos de dados.
+* [ ] 18 Técnicas de Integração e Ingestão de Dados (ETL/ELT, Transferência de Arquivos e Integração via Base de Dados).
+* [ ] 19 Conceitos de Inteligência Artificial, Análise de Dados e Big Data. Noções para Otimização de Performance em Larga Escala.
+
 ## 2 - DESENVOLVIMENTO DE SISTEMAS:
 * [ ] 1 Desenvolvimento de sistemas.
   * [ ] 1.1 Desenvolvimento web.
-    * [ ] 1.1.1 JavaScript
+    * [✅] 1.1.1 JavaScript
     * [ ] 1.1.2 HTML5  
     * [ ] 1.1.3 CSS3
     * [ ] 1.1.4 WebSocket
@@ -169,34 +198,7 @@ CONCURSO PÚBLICO NACIONAL UNIFICADO DA JUSTIÇA ELEITORAL PARA O PROVIMENTO DE 
 
 
 
-## 5 - BANCOS DE DADOS:
-* [ ] 1 Banco de dados.
-* [ ] 1.1 Conceitos básicos.
-* [ ] 1.2 Arquitetura.
-* [ ] 1.3 Estrutura de dados.
-* [ ] .4 Modelagem e normalização de dados.
-* [ ] 1.5 Noções de administração de dados e de banco de dados.
-* [ ] 1.6 SQL (ANSI).
-* [ ] 1.7 Oracle 21C, MySql, ADABAS e MS-SQLSERVER 2019.
-* [ ] 1.8 Arquitetura e políticas de armazenamento de dados. Engenharia de dados – ingestão e armazenamento de grande quantidade de dados (Big Data), SQLite.
-* [ ] 2 Modelagem de dados (conceitual, lógica e física).
-* [ ] 3 Abordagem relacional.
-* [ ] 4 Normalização das estruturas de dados.
-* [ ] 5 Integridade referencial.
-* [ ] 6 Metadados.
-* [ ] 7 Modelagem dimensional.
-* [ ] 8 Linguagem de consulta estruturada (SQL).
-* [ ] 9 Linguagem de definição de dados (DDL).
-* [ ] 10 Linguagem de manipulação de dados (DML).
-* [ ] 11 SGBD.
-* [ ] 12 Propriedades de banco de dados.
-* [ ] 13 Banco de dados NoSQL.
-* [ ] 14 Banco de dados em memória.
-* [ ] 15 Data lakes e soluções para big data.
-* [ ] 16 Dados Estruturados e não Estruturados.
-* [ ] 17 Avaliação de modelos de dados.
-* [ ] 18 Técnicas de Integração e Ingestão de Dados (ETL/ELT, Transferência de Arquivos e Integração via Base de Dados).
-* [ ] 19 Conceitos de Inteligência Artificial, Análise de Dados e Big Data. Noções para Otimização de Performance em Larga Escala.
+
 
 ## 9- LÍNGUA INGLESA:
 * [ ] 1 Compreensão de textos variados: domínio do vocabulário e da estrutura da língua, ideias principais e secundárias, explícitas e implícitas, relações intratextuais e intertextuais.
